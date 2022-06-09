@@ -10,9 +10,6 @@ export const COLUMNS=[
     {
         Header:'Email',
         accessor:'email'
-    },
-    {
-        Header:'Role',
-        accessor:'role'
     }
+    
 ]
